@@ -6,5 +6,7 @@ A variational autoencoder is a model that learns a probabilistic representation 
 A generative adversarial network (GAN) is a model that learns to generate images through competition between two networks. In simple terms, one network (the generator) learns to create fake images, while another network (the discriminator) learns to distinguish real images from fake images. Through this adversarial process, the generator improves until it can produce images that closely resemble (ideally indistinguishable from) the original dataset.
 
 GAN image generation example:
+
+
 <img width="242" height="242" alt="image" src="https://github.com/user-attachments/assets/a692e79f-d865-4efa-bad7-700f2e38b935" />
 
